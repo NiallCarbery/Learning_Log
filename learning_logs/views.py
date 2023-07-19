@@ -1,3 +1,7 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 
-# Create your views here.
+from .models import Topic
+
+def index(request):
+    """The home page for Learning Log"""
+    return render(request, 'learning_logs/index.html')
