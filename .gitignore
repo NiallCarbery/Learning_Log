@@ -1,0 +1,12 @@
+#pycache
+__pycache__/
+
+#main
+learning_log/_init_.py
+learning_log/asgi.py
+learning_log/wsgi.py
+
+#Django/ll_env
+ll_env
+db.sqlite3
+manage.py
