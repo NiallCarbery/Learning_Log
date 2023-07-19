@@ -25,7 +25,37 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+#Virtual folders
 ll_env
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.db
+*.log
+*.sql
+*.sqlite
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
