@@ -30,7 +30,7 @@ MANIFEST
 ll_env
 
 #SECRET_KEY
-learning_log\etc\secret_key.txt
+learning_log/etc/
 
 # Compiled source #
 ###################
