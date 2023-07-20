@@ -29,6 +29,9 @@ MANIFEST
 #Virtual folders
 ll_env
 
+#SECRET_KEY
+learning_log\etc\secret_key.txt
+
 # Compiled source #
 ###################
 *.com
